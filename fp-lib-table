@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "HRO_TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/TYPE-C-31-M-12/HRO_TYPE-C-31-M-12.pretty")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/TS-1187A-B-A-B/TS-1187A-B-A-B.pretty")(options "")(descr ""))
+  (lib (name "STM32G431CBU6")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/ul_STM32G431CBU6/KiCAD/2022-04-16_14-02-52/STM32G431CBU6.pretty")(options "")(descr ""))
+  (lib (name "MOLEX_473460001")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/MOLEX_473460001/MOLEX_473460001.pretty")(options "")(descr ""))
+)
